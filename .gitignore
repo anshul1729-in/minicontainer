@@ -1,0 +1,5 @@
+# Ignore the downloaded Alphine Linux System 
+alpine-rootfs/
+*.tar.gz
+# Ignore the compiled executable binary
+minicontainer
